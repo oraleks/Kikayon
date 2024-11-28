@@ -4,7 +4,7 @@ Developers: Dr. Or Aleksandrowicz and Arch. Ezra Ozery, the [Big Data in Archite
 
 To date, there is a lack of orderly and data-based methods for quantifying, evaluating, and benchmarking street-level outdoor shade in streets and urban public spaces. The lack of such methods impedes the effective design of walkable and liveable outdoors in locations where shading is essential for significantly mitigating outdoor heat stress. To address this shortcoming, we have developed Kikayon, a relatively simple parametric tool that allows planners and designers to easily compare the effect of design alternatives on outdoor shade provision based on building geometry and tree canopy morphologies while taking into account the variance of exposure to solar radiation at different times. The tool calculates several shade and tree indices, some we have originally developed, for each street design, giving users quick and straightforward feedback and enabling them to quantitatively compare design alternatives. Our tool is implemented as a Grasshopper code that harnesses several components of the Ladybug Tools suite.
 
-This work was originally supported by the [Israel 100](https://israel100.org/en/) innitiative. The tool is available for all types of uses for research and planning according to the CC BY 4.0 license (Attribution 4.0 International).  
+This work was originally supported by the [Israel 100](https://israel100.org/en/) initiative. The tool is available for all types of uses for research and planning according to the CC BY 4.0 license (Attribution 4.0 International).  
 
 We wish to thank Shamay Assif for facilitating the development of the tool. 
 
